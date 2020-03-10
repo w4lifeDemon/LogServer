@@ -1,0 +1,24 @@
+﻿        .rate_widget {
+            overflow:   visible;
+            position:   relative;
+            width:      180px;
+            height:     24px;
+        }
+        .ratings_stars {
+            background: url('/index_files/stars24.png') no-repeat scroll 0px 0px transparent;
+            float:      left;
+            height:     24px;
+            width:      24px;
+        }
+        .ratings_vote {
+            background: url('/index_files/stars24.png') no-repeat scroll 0px -48px transparent;
+        }
+        .ratings_over {
+            background: url('/index_files/stars24.png') no-repeat scroll 0px -24px transparent;
+        }
+        .total_votes {
+            width:      200px;
+            top:        6px;
+            left:       140px;
+            position:   absolute;
+        }

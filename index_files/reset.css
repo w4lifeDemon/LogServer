@@ -1,0 +1,130 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	/*border: 0;*/
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	/*vertical-align: baseline;*/
+}
+a:visited {
+	text-decoration:none;
+}
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+ol, ul {
+	list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	/*text-align: left;*/
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+div#login_ {
+position : absolute;
+top: 15px;
+left: 5px;
+color: #0099BB; font-size: 90%; text-decoration: none; outline: none;
+
+}
+div#login_ a {
+color: #0099BB; font-size: 90%; text-decoration: none; outline: none;
+}
+div#login_ a:visited {font-family: 'Arial';  color: #0099BB;}
+div#login_ a:link {font-family: 'Arial';  color: #0099BB;}
+div#login_ a:active {font-family: 'Arial';  color: #00FF00;}
+div#login_ a:hover {font-family: 'Arial'; color: #00FF00;}
+
+div.dropdown {
+color: #555;
+margin: 3px -22px 0 0;
+width: 143px;
+position: relative;
+height: 17px;
+text-align:left;
+}
+div.submenu
+{
+background: #fff;
+position: absolute;
+top: -12px;
+left: -20px;
+z-index: 100;
+width: 135px;
+display: none;
+margin-left: 10px;
+padding: 40px 0 5px;
+border-radius: 6px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+.dropdown  li a {
+
+    color: #555555;
+    display: block;
+    font-family: arial;
+    font-weight: bold;
+    padding: 6px 15px;
+  cursor: pointer;
+text-decoration:none;
+}
+
+.dropdown li a:hover{
+    background:#155FB0;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+a.account {
+font-size: 11px;
+line-height: 16px;
+color: #555;
+position: absolute;
+z-index: 110;
+display: block;
+padding: 11px 0 0 20px;
+height: 28px;
+width: 121px;
+margin: -11px 0 0 -10px;
+text-decoration: none;
+background: url(icons/arrow.png) 116px 17px no-repeat;
+cursor:pointer;
+}
+.root
+{
+list-style:none;
+margin:0px;
+padding:0px;
+font-size: 11px;
+padding: 11px 0 0 0px;
+border-top:1px solid #dedede;
+
+
+}
