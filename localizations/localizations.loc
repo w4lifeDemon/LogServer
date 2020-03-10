@@ -1,0 +1,776 @@
+﻿
+[logserver_title]
+`DE`=`LogServer - storage of combat reports from OGame`
+`EN`=`LogServer - storage of combat reports from OGame`
+`BG`=`LogServer - съхранение на доклади от битки от OGame`
+`RU`=`LogServer - официальная логомолотилка русского ОГейма`
+`UA`=`LogServer - storage of combat reports from OGame`
+
+[expand_instraction]
+`DE`=`Ausbreiten Ausbilder von Ausnutzung`
+`EN`=`Expand usage instruction down`
+`BG`=`Показване на инструкциите за употреба`
+`RU`=`Развернуть инструкцию по использованию`
+`UA`=`Розвернути інструкцію по використанню`
+
+[for_uploading_title]
+`DE`=`Von laden neu log`
+`EN`=`For uploading new log`
+`BG`=`За да добавите нов доклад от битка`
+`RU`=`Для загрузки нового лога`
+`UA`=`Для завантаження нового лога`
+
+[for_uploading_step_1]
+`DE`=`Drücken Sie vom rechten Knopf der Maus auf dem Kampfvortrag`
+`EN`=`Press the right mouse button while viewing your combat report`
+`BG`=`Натиснете десния бутон на мишката докато разглеждате доклада от битката`
+`RU`=`Нажмите правой кнопкой мыши на боевом докладе`
+`UA`=`Натискуйте правою кнопкою миші на бойовій доповіді`
+
+[for_uploading_step_2]
+`DE`=`Wählen Sie den Punkt "Veiw HTML-code" (Internet Explorer) oder "View Page Source" (Firefox)`
+`EN`=`Choose "Veiw HTML-code" (Internet Explorer) or "View Page Source" (Firefox)`
+`BG`=`Изберете "Veiw HTML-code" (Internet Explorer) или "View Page Source" (Firefox) от контекстното меню, което ще се появи`
+`RU`=`Выберите пункт "Veiw HTML-code" (Internet Explorer) или "View Page Source" (Firefox)`
+`UA`=`Виберіть пункт "Veiw Html-code" (Internet Explorer) або "View Page Source" (Firefox)`
+
+[for_uploading_step_3]
+`DE`=`Schreiben Sie den Text vollständig im Feld "der Kampfvortrag" ab (HTML-code)`
+`EN`=`Select the entire text (Ctrl-A), copy it (Ctrl-C) and paste it (Ctrl-V) into field "Combat report (HTML-code)"`
+`BG`=`Маркирайте целия текст (Ctrl-A), копирайте го (Ctrl-C) и го сложете (Ctrl-V) в полето "Докад от битката (HTML)"`
+`RU`=`Скопируйте текст целиком в поле "Боевой доклад (HTML-код)"`
+`UA`=`Скопіюйте текст цілком в полі "Бойова доповідь (HTML-код) "`
+
+[html_report]
+`DE`=`Battle bericht (HTML-code)`
+`EN`=`Combat report (HTML-code)`
+`BG`=`Доклад от битката (HTML)`
+`RU`=`Боевой доклад (HTML-код)`
+`UA`=`Бойова доповідь (HTML-код)`
+
+[recycler_report]
+`DE`=`Der Vortrag Erntemaschine`
+`EN`=`Recycler report`
+`BG`=`Доклад(и) от рециклиране`
+`RU`=`Доклад переработчиков`
+`UA`=`Доповідь переробників`
+
+[comment]
+`DE`=`Kommentar`
+`EN`=`Comment`
+`BG`=`Коментари`
+`RU`=`Комментарий`
+`UA`=`Коментар`
+
+[public_log]
+`DE`=`Öffentliche bericht`
+`EN`=`Public log`
+`BG`=`Общодостъпен доклад`
+`RU`=`Публичный лог`
+`UA`=`Публічний лог`
+
+[hide_coords]
+`DE`=`Hide koordinaten`
+`EN`=`Hide coordinates`
+`BG`=`Скриване на координатите`
+`RU`=`Скрыть координаты`
+`UA`=`Приховати координати`
+
+[hide_techs]
+`DE`=`Hide technologies`
+`EN`=`Hide technologies`
+`BG`=`Скриване на технологиите`
+`RU`=`Скрыть технологии`
+`UA`=`Приховати технології`
+
+[upload]
+`DE`=`Laden`
+`EN`=`Upload`
+`BG`=`Добавяне`
+`RU`=`Загрузить`
+`UA`=`Відправити`
+
+[submit]
+`DE`=`Abzusenden`
+`EN`=`Submit`
+`BG`=`Изпращане`
+`RU`=`Отправить`
+`UA`=`Відправити`
+
+[noscript]
+`DE`=`Ihr Browser unterstützt Scripts nicht! Aber regen Sie sich nicht auf! Einfach verwenden Sie den Knopf "Absenden" und seien Sie glücklich`
+`EN`=`Your browser doesn't support scripts! But don't worry! Just use the button "Submit" and be happy`
+`BG`=`Броузерът Ви не поддържа скриптово. Но не се безпокойте! Просто използвайте бутона "Submit" и се забавлявайте`
+`RU`=`Ваш браузер не поддерживает скрипты! Но не волнуйтесь! Просто используйте кнопку "Отправить" и будьте счастливы`
+`UA`=`Ваш браузер не підтримує скрипти! Але не хвилюйтеся! Просто використовуйте кнопку "Відправити" і будьте щасливі`
+
+[upload_err]
+`DE`=`Das beladene Objekt ist den Herstellern automatisch abgesandt`
+`EN`=`Uploaded object was automatically sent to the developers`
+`BG`=`Добавеният доклад беше изпратен автоматично на разработчиците`
+`RU`=`Загруженный объект автоматически отправлен разработчикам`
+`UA`=`Завантажений об'єкт автоматично відправлений розробникам`
+
+[errors_occured]
+`DE`=`Es sind die Fehler geschehen`
+`EN`=`Errors occured`
+`BG`=`Възникнаха грешки`
+`RU`=`Произошли ошибки`
+`UA`=`Сталися помилки`
+
+[return_to_main]
+`DE`=`Auf die Hauptseite zurückzukehren`
+`EN`=`Return to the main page`
+`BG`=`Връщане към главната страница`
+`RU`=`Вернуться на главную страницу`
+`UA`=`Повернутися на головну сторінку`
+
+[navigate]
+`DE`=`Ubergehen`
+`EN`=`Navigate`
+`BG`=`Отваряне с броузера`
+`RU`=`Перейти`
+`UA`=`Перейти`
+
+[log_uploaded]
+`DE`=`Log ist erfolgreich beladen`
+`EN`=`Log successfully uploaded`
+`BG`=`Докладът беше изпратен успешно`
+`RU`=`Лог успешно загружен`
+`UA`=`Лог успішно завантажений`
+
+[clean_up]
+`DE`=`Die Reinigung des Planeten`
+`EN`=`Planet clean-up`
+`BG`=`Зачистване на планетата`
+`RU`=`Зачистка планеты`
+`UA`=`Зачистка планети`
+
+[faq_xml]
+`DE`=`<title>Was ist LogServer?</title>
+
+	<text> LogServer - die Ressource für die Auslastung, die Aufbewahrung und die Demonstration der Kampfvorträge aus online die Spiele "OGame"</text>
+	<title> Werden Welche Server unterstützt?</title>
+		<text> Werden alle offiziellen Server</text>
+	<title> Werden Welche Versionen des Spieles unterstützt?</title>
+		<text> LogServer kann die Vorträge von den Servern, die auf der neuen Version des Motors arbeiten (1.x, auch genannt "редизайн") und der alten Version (0.x)</text>
+	<title> Mit welchen Sprachen kann логовница arbeiten?</title>
+		<text> Werden alle Sprachen unterstützt, und LogServer hängt von der Lokalisation des Spieles nicht ab. Die Hauptsprache, die in LogServer verwendet wird - die englische Sprache</text>
+		<text> Jedoch wenn wollen Sie die Sprache auf der Hauptseite sehen, verbinden Sie sich mit uns, und wir werden dieses Problem</text>
+	<title> bedeuten Was allen контролы auf der Hauptseite, ob auch allen aus ihnen auszufüllen unbedingt?</title>
+		<text>► <u>"Battle bericht (HTML-Kode)"</u> (obligatorisch) ist es für die Ergänzung des HTML-Kodes Ihres Kampfvortrags notwendig. Für das Erhalten der zusätzlichen Informationen schauen Sie "die Instruktion über die Nutzung" an.</text>
+		<text>► <u>"die Vorträge Erntemaschine"</u> (unverbindlich) wird für die Ergänzung der Vorträge Erntemaschine (in Form vom einfachen Text, und nicht des HTML-Kodes)</text>
+		<text>Sample 1: "Переработчики в количестве X штук обладают общей грузоподъёмностью в X. Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>Sample 2: "Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>► <u>"Der Kommentar"</u> (unverbindlich)dient für die Abbildung des Kommentars des Spielers</text>
+		<text>► <u>"Die Reinigung des Planeten"</u> (unverbindlich)wird für die Ergänzung der Ergebnisse der nachfolgenden Angriffe auf diesem Planeten (in Form vom einfachen Text, und nicht des HTML-Kodes)</text>
+		<text> Zum Beispiel: "The attacker has won the battle! He gets: X metal, X crystal and X deiterium."</text>
+		<text>► <u>"Allgemeinverständlich"</u> - wenn ist es bemerkt, Ihr Hohlweg wird um der Liste der Allgemeinverständlichen beigefügt sein. Alle Benutzer können die Hohlwege in dieser Liste</text>
+		<text>► <u>"Die Koordinaten"</u> - anstelle der Koordinaten Zu verbergen "X:X:X"</text>
+		<text>► <u>"Die Technologien"</u> - die Technologie angreifend und sich verteidigend Zu verbergen werden auf "Х % Х % Х %"</text>
+	<title> Wie kann man sich mit wir verbinden?</title>
+		<text> Können Sie unser Forum ausnutzen oder, e-mail an die Adresse sldesigns@ya.ru</text>
+	`
+`EN`=`
+ 	<title>What is LogServer?</title>
+ 		<text>LogServer is a network resource used for proccessing, storing and displaying combat reports for the on-line game "OGame"</text>
+ 	<title>Which servers are supported?</title>
+ 		<text>All official servers are supported</text>
+ 	<title>Which game versions are supported?</title>
+ 		<text>LogServer can process reports from servers using the new engine (v1.x, a.k.a. "redesign") or the old engine (v0.x)</text>
+ 	<title>Which languages are supported?</title>
+ 		<text>All languages are supported and LogServer is independent of the game localization. The language used by LogServer is English</text>
+ 		<text>If you want to see the main page in your own language, please contact us and we will work on it together</text>
+ 	<title>What is the meaning of all controls on the main page and are all of them required?</title>
+ 		<text>► <u>"Combat report (HTML-code)"</u> (required) used for entering the HTML-code of your battle report. See "usage instruction" to get more info</text>
+ 		<text>► <u>"Harvesting report"</u> (optional) used for entering the harvesting reports (not HTML, just simple text)</text>
+ 		<text>Sample 1: "Переработчики в количестве X штук обладают общей грузоподъёмностью в X. Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>Sample 2: "Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>► <u>"Comment"</u> (optional) used for entering player comments</text>
+ 		<text>► <u>"Planet clean-up"</u> (optional) used for entering the additional (farming) results for the same planet (not HTML, just simple text)</text>
+ 		<text>Sample: "The attacker has won the battle! He captured: X metal, X crystal and X deuterium."</text>
+ 		<text>► <u>"Public"</u> - if checked, your log will be added to the public list. All users can perform searches of the public logs</text>
+ 		<text>► <u>"Hide coordinates"</u> - if checked, the coordinates will be replaced with "X:X:X"</text>
+ 		<text>► <u>"Hide technologies"</u> - if checked, the technologies will be replaced with "X% X% X%"</text>
+ 	<title>How to contact us?</title>
+ 		<text>You can use our forum or send e-mail to sldesigns@ya.ru</text>
+ 	`
+`BG`=`
+	<title>Какво е LogServer?</title>
+		<text>LogServer е мрежов ресурс за обработка, съхраняване и показване на доклади от битките в он-лайн играта "OGame"</text>
+	<title>Кои сървери се поддържат?</title>
+
+		<text>Поддържат се всички официални сървери</text>
+	<title>Кои версии на играта се поддържат?</title>
+		<text>LogServer може да обработва доклади както от сърверите, използващи новия дизайн (v1.x), така и от тези, използващи стария (v0.x)</text>
+	<title>Кои езици се поддържат?</title>
+		<text>Поддържат се всички езици. LogServer не зависи от езика на докладите. Основният език, използван от самия LogServer е английски</text>
+		<text>Ако искате да виждате главната страница на родния си език, моля свържете се с нас и ние заедно ще разрешим проблема</text>
+	<title>Какво е значението на разните опции и всичките ли са необходими?</title>
+		<text>► <u>"Доклад от битката (HTML)"</u> (необходим) използва се за въвеждането на HTML кода на доклада от битката. За повече информация, вижте "инструкциите за употреба"</text>
+		<text>► <u>"Доклад(и) от рециклиране"</u> (незадължителни) използва се за въвеждане на докладите от рециклирането (не HTML, просто обикновен текст)</text>
+		<text>Sample 1: "Переработчики в количестве X штук обладают общей грузоподъёмностью в X. Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>Sample 2: "Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>► <u>"Коментари"</u> (незадължителни) използва се за въвеждане на коментари на играча</text>
+		<text>► <u>"Зачистване на планетата"</u> (незадължително) използва се за въвеждане на допълнителна иформациа за ферменето на същата планета (не HTML, просто обикновен текст)</text>
+		<text>Например: "Нападателят спечели битката! Той заграби X метал, X кристал и X деутериум."</text>
+		<text>► <u>"Общодостъпен доклад"</u> - ако това бъде избрано, докладът Ви ще бъде общодостъпен. Всеки потребител може да извършва търсене в списъка общодостъпни доклади</text>
+		<text>► <u>"Скриване на координатите"</u> - ако това бъде избрано, координатите в доклада ще бъдат заместени с "X:X:X"</text>
+		<text>► <u>"Скриване на технологиите"</u> - ако това бъде избрано, технологиите в доклада ще бъдат заместени с "X% X% X%"</text>
+	<title>Как да се свържете с нас?</title>
+		<text>Можете да използвате нашия форум или да изпратите съобщение по електронната поща на адрес sldesigns@ya.ru</text>
+	`
+`RU`=`
+	<title>Что такое LogServer?</title>
+
+		<text>LogServer - ресурс для загрузки, хранения и демонстрации боевых докладов из онлайн игры  "OGame"</text>
+	<title>Какие серверы поддерживаются?</title>
+		<text>Поддерживаются все официальные серверы</text>
+	<title>Какие версии игры поддерживаются?</title>
+		<text>LogServer может обрабатывать доклады с серверов, работающих на новой версии движка (1.x, также называемый "редизайн") и старой версии (0.x)</text>
+	<title>С какими языками может работать логовница?</title>
+		<text>Поддерживаются все языки, и LogServer не зависит от локализации игры. Основной язык, используемый в  LogServer - английский</text>
+		<text>Однако если вы хотите видеть свой язык на главной странице, свяжитесь с нами, и мы вместе решим эту проблему</text>
+	<title>Что означают все контролы на главной странице, и все ли из них обязательно заполнять?</title>
+		<text>► <u>"Боевой доклад (HTML-код)"</u> (обязательное) необходимо для добавления HTML-кода  Вашего боевого доклада. Для получения дополнительной информации посмотрите "инструкция по использованию".</text>
+		<text>► <u>"Доклады переработчиков"</u> (необязательное) используется для добавления докладов переработчиков (в виде простого текста, а не HTML-кода)</text>
+		<text>Пример 1: "Переработчики в количестве X штук обладают общей грузоподъёмностью в X. Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>Пример 2: "Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>		
+		<text>► <u>"Комментарий"</u> (необязательное) служит для отображения комментария игрока</text>
+		<text>► <u>"Зачистка планеты"</u> (необязательное) используется для добавления результатов последующих атак на этой же планете (в виде простого текста, а не HTML-кода)</text>
+		<text>Пример: "The attacker has won the battle! He gets: X metal, X crystal and X deiterium."</text>
+		<text>► <u>"Публичный лог"</u> - если отмечено, Ваш лог будет добавлен с список общедоступных. Все пользователи смогут искать логи в этом списке</text>
+		<text>► <u>"Скрыть координаты"</u> - вместо координат будет стоять "X:X:X"</text>
+		<text>► <u>"Скрыть технологии"</u> - технологии атакующего и обороняющегося будут заменены на  "Х% Х% Х%"</text>
+	<title>Как можно с нами связаться?</title>
+
+		<text>Вы можете воспользоваться нашим форумом или отправить e-mail по адресу sldesigns@ya.ru</text>
+	`
+`UA`=`
+        <title>Що таке Logserver?</title>
+		<text>LogServer - ресурс для завантаження, зберігання і демонстрації бойових доповідей з онлайн гри  "Ogame"</text>
+	<title>Які сервери підтримуються?</title>
+        <text>Підтримуються все офіційні сервери</text>
+	<title>Какие версії гри підтримуються?</title>
+		<text>LogServer може обробляти доповіді з серверів, що працюють на новій версії движка (1.x, також званий "редізайн") і старої версії (0.x)</text>
+	<title>С якими мовами може працювати логовніца?</title>
+		<text>Підтримуються всі мови, і Logserver не залежить від локалізації гри. Основна мова, використовувана в  Logserver - англійська</text>
+		<text>Але якщо ви хочете бачити свою мову на головній сторінці, зв'яжіться з нами, і ми разом вирішимо цю проблему</text>
+	<title>Що означають всі контроли на головній сторінці, і чи все з них обов'язково заповнювати?</title>
+		<text>► <u>"Бойова доповідь (HTML-код)"</u> (обов'язкове) необхідно для додавання HTML-кода  Вашої бойової доповіді. Для здобуття додаткової інформації поглянете "інструкція по використанню".</text>
+		<text>► <u>"Доповіді переробників"</u> (не обов'язково) використовується для додавання доповідей переробників (у вигляді простого тексту, а не HTML-кода)</text>
+		<text>Пример 1: "Переработчики в количестве X штук обладают общей грузоподъёмностью в X. Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>Пример 2: "Поле обломков содержит X металла и X кристалла. Добыто X металла и X кристалла."</text>
+		<text>► <u>"Коментар"</u> (не обов'язково) служить для відображення коментаря ігрока</text>
+		<text>► <u>"Зачистка планети"</u> (не обов'язково) використовується для додавання результатів подальших атак на цій же планеті (у вигляді простого тексту, а не HTML-кода)</text>
+		<text>Приклад: "The attacker has won the battle! He gets: X metal, X crystal and X deiterium."</text>
+		<text>► <u>"Публічний лог"</u> - якщо відмічено, Ваш лог буде додана із список загальнодоступних. Всі користувачі зможуть шукати логи в цьому списку</text>
+		<text>► <u>"Приховати координати"</u> - замість координат стоятиме "X:X:X"</text>
+		<text>► <u>"Приховати технології"</u> - технології що атакує і обороняється будуть замінені на  "Х% Х% Х%"</text>
+	<title>Як можна з нами зв'язатися?</title>
+		<text>Ви можете скористатися нашим форумом або відправити e-mail за адресою sldesigns@ya.ru</text>
+	`
+
+[init_str_b]
+`DE`=`Die Anfangsstruktur`
+`EN`=`Initial structure`
+`BG`=`Начална структура`
+`RU`=`Начальная структура`
+`UA`=`Початкова структура`
+
+[end_str_b]
+`DE`=`Die endliche Struktur`
+`EN`=`End structure`
+`BG`=`Крайна структура`
+`RU`=`Конечная структура`
+`UA`=`Кінцева структура`
+
+[losses_b]
+`DE`=`Die Verluste der Struktur`
+`EN`=`Structure losses`
+`BG`=`Структурни загуби`
+`RU`=`Потери структуры`
+`UA`=`Втрати структури`
+
+[expand_all_rounds_title]
+`DE`=`ALLE&nbspRUNDEN&nbspZU&nbspZEIGEN`
+`EN`=`Expand&nbsp;all&nbsp;rounds`
+`BG`=`РАЗГРЪЩАНЕ&nbspНА&nbspВСИЧКИ&nbspРУНДОВЕ`
+`RU`=`Показать&nbsp;все&nbsp;раунды`
+`UA`=`ПОКАЗАТИ&nbspВСІ&nbspРАУНДИ`
+
+[fleet_statistics_title]
+`DE`=`DIE STATISTIK DER SOFTWARE DEN FLOTTEN`
+`EN`=`FLEET STATISTICS`
+`BG`=`КРАЕН РЕЗУЛТАТ ОТ БОЯ`
+`RU`=`СТАТИСТИКА ПО ФЛОТАМ`
+`UA`=`СТАТИСТИКА ПО ФЛОТАХ`
+
+[recycler_report_title]
+`DE`=`DER VORTRAG ERNTEMASCHINE`
+`EN`=`RECYCLER REPORT`
+`BG`=`ДОКЛАД ОТ РЕЦИКЛИРАНЕТО`
+`RU`=`ДОКЛАД ПЕРЕРАБОТЧИКОВ`
+`UA`=`ДОПОВІДЬ ПЕРЕРОБНИКІВ`
+
+[total_recycled]
+`DE`=`Insgesamt ist es verarbeitet
+`
+`EN`=`Total recycled`
+`BG`=`Общо рециклирано`
+`RU`=`Всего переработано`
+`UA`=`Всього перероблено`
+
+[total_cleanup]
+`DE`=`Insgesamt ist es ergriffen`
+`EN`=`Total cleanup`
+`BG`=`Общо заграбено`
+`RU`=`Всего захвачено`
+`UA`=`Total cleanup`
+
+[metal_r]
+`DE`=`Metall `
+`EN`=`metal`
+`BG`=`Метал`
+`RU`=`металла`
+`UA`=`металу`
+
+[and_r]
+`DE`=`und`
+`EN`=`and`
+`BG`=`и`
+`RU`=`и`
+`UA`=`і`
+
+[crystal_r]
+`DE`=`Kristall`
+`EN`=`crystal`
+`BG`=`Кристали`
+`RU`=`кристалла`
+`UA`=`кристала`
+
+[deuterium_r]
+`DE`=`deuterium`
+`EN`=`deuterium`
+`BG`=`Деутериум`
+`RU`=`дейтерия`
+`UA`=`deuterium`
+
+[comment_title]
+`DE`=`KOMMENTAR`
+`EN`=`COMMENT`
+`BG`=`КОМЕНТАР`
+`RU`=`КОММЕНТАРИЙ`
+`UA`=`КОМЕНТАР`
+
+[planet_cleanup_title]
+`DE`=`DIE REINIGUNG DES PLANETEN`
+`EN`=`PLANET CLEAN-UP`
+`BG`=`ЗАЧИСТВАНЕ НА ПЛАНЕТАТА`
+`RU`=`ЗАЧИСТКА ПЛАНЕТЫ`
+`UA`=`ЗАЧИСТКА ПЛАНЕТИ`
+
+[compounds_title]
+`DE`=`DER WERT DER FLOTTE (DIE VERTEIDIGUNG)`
+`EN`=`COMPOUNDS`
+`BG`=`ОБЩА СТРУКТУРА`
+`RU`=`СТОИМОСТЬ ФЛОТА (ОБОРОНЫ)`
+`UA`=`СПІЛЬНА СТРУКТУРА`
+
+[att_total_comp]
+`DE`=`Des Angreifenden`
+`EN`=`Attacker's total compound`
+`BG`=`Обща структура на нападателя`
+`RU`=`Атакующего`
+`UA`=`Спільна структура того, що атакує`
+
+[def_total_comp]
+`DE`=`Sich verteidigen`
+`EN`=`Defender's total compound`
+`BG`=`Обща структура на защитника`
+`RU`=`Обороняющегося`
+`UA`=`Спільна структура того, що обороняється`
+
+[attacker]
+`DE`=`Angreifen`
+`EN`=`Attacker`
+`BG`=`Нападател`
+`RU`=`Атакующий`
+`UA`=`?`
+
+[defender]
+`DE`=`Sich verteidigen`
+`EN`=`Defender`
+`BG`=`Защитник`
+`RU`=`Обороняющийся`
+`UA`=`?`
+
+[losses_title]
+`DE`=`VERLUST`
+`EN`=`LOSSES`
+`BG`=`ЗАГУБИ`
+`RU`=`ПОТЕРИ`
+`UA`=`ВТРАТИ`
+
+[att_total_losses]
+`DE`=`Des Angreifenden`
+`EN`=`Attacker's total losses`
+`BG`=`Общи загуби на нападателя`
+`RU`=`Атакующего`
+`UA`=`Спільні втрати того, що атакує`
+
+[def_total_losses]
+`DE`=`Sich verteidigen`
+`EN`=`Defender's total losses`
+`BG`=`Общи загуби на защитника`
+`RU`=`Обороняющегося`
+`UA`=`Спільні втрати того, що обороняється`
+
+[profit_title]
+`DE`=`GEWINN`
+`EN`=`PROFIT`
+`BG`=`ПЕЧАЛБА`
+`RU`=`ПРИБЫЛЬ`
+`UA`=`ПРИБУТОК`
+
+[att_gains_1]
+`DE`=`Für angreifend`
+`EN`=`Attacker gains`
+`BG`=`Нападателят печели`
+`RU`=`Для атакующего`
+`UA`=`Той, що атакує отримує`
+
+[def_gains_1]
+`DE`=`Für sich verteidigend`
+`EN`=`Defender gains`
+`BG`=`Защитникът печели`
+`RU`=`Для обороняющегося`
+`UA`=`Той, що обороняється отримує`
+
+[att_gains_2]
+`DE`=`Für angreifend`
+`EN`=`Attacker gains`
+`BG`=`Нападателят печели`
+`RU`=`Для атакующего`
+`UA`=`Той, що атакує отримує`
+
+[def_gains_2]
+`DE`=`Für sich verteidigend`
+`EN`=`Defender gains`
+`BG`=`Защитникът печели`
+`RU`=`Для обороняющегося`
+`UA`=`Той, що обороняється отримує`
+
+[rs_title]
+`DE`=`STATISTIK RESSOURCEN`
+`EN`=`RESOURCES STATISTICS`
+`BG`=`СТАТИСТИКА НА РЕСУРСИТЕ`
+`RU`=`СТАТИСТИКА ПО РЕСУРСАМ`
+`UA`=`СТАТИСТИКА ПО РЕСУРСАХ`
+
+[metal]
+`DE`=`Metall`
+`EN`=`Metal`
+`BG`=`Метал`
+`RU`=`Металл`
+`UA`=`Метал`
+
+[crystal]
+`DE`=`Kristall`
+`EN`=`Crystal`
+`BG`=`Кристали`
+`RU`=`Кристалл`
+`UA`=`Кристал`
+
+[deuterium]
+`DE`=`euterium`
+`EN`=`Deuterium`
+`BG`=`Деутериум`
+`RU`=`Дейтерий`
+`UA`=`Дейтерій`
+
+[summary]
+`DE`=`Insgesamt`
+`EN`=`Total`
+`BG`=`Общо`
+`RU`=`Итого`
+`UA`=`Разом`
+
+[fleet_t]
+`DE`=`Flotte`
+`EN`=`Fleet`
+`BG`=`Флот`
+`RU`=`Флот`
+`UA`=`Флот`
+
+[losses_t]
+`DE`=`Verlust`
+`EN`=`Losses`
+`BG`=`Загуби`
+`RU`=`Потери`
+`UA`=`Втрати`
+
+[recycled_t]
+`DE`=`Harvested`
+`EN`=`Harvested`
+`BG`=`Рециклирано`
+`RU`=`Переработано`
+`UA`=`Переработано`
+
+[captured_t]
+`DE`=`Es ist ergriffen`
+`EN`=`Captured`
+`BG`=`Заграбено`
+`RU`=`Захвачено`
+`UA`=`Захоплено`
+
+[wreckage_t]
+`DE`=`Das Feld der Bruchstücke`
+`EN`=`Derbis`
+`BG`=`Рециклаж`
+`RU`=`Поле обломков`
+`UA`=`Derbis`
+
+[profit_1_t]
+`DE`=`Gewinn`
+`EN`=`Profit`
+`BG`=`Печалба`
+`RU`=`Прибыль`
+`UA`=`Прибуток`
+
+[cleanup_1_t]
+`DE`=`Clean-up`
+`EN`=`Clean-up`
+`BG`=`Зачистване`
+`RU`=`Зачистка`
+`UA`=`Зачистка`
+
+[ipms_1_t]
+`DE`=`IPMs`
+`EN`=`IPMs`
+`BG`=`МПР`
+`RU`=`МПР`
+`UA`=`МПР`
+
+[log_rank_title]
+`DE`=`DIE EINSCHÄTZUNG DES LOG`
+`EN`=`LOG RANK`
+`BG`=`РАНГ НА ДОКЛАДА`
+`RU`=`ОЦЕНКА ЛОГА`
+`UA`=`ОЦІНКА ЛОГА`
+
+[splitup_title]
+`DE`=`SPLIT-UP`
+`EN`=`SPLIT-UP`
+`BG`=`Подялба на печалбата от СБС-Атаката`
+`RU`=`ДЕЛЕЖ САБа`
+`UA`=`ПОДІЛ САБа`
+
+[proportional]
+`DE`=`Proportional`
+`EN`=`Proportional`
+`BG`=`Пропорционално`
+`RU`=`Пропорционально`
+`UA`=`Пропорційно`
+
+[equally]
+`DE`=`Gleich`
+`EN`=`Equally`
+`BG`=`Еднакво`
+`RU`=`Поровну`
+`UA`=`Порівну`
+
+[plugin_info_xml]
+`DE`=`
+	<text> Schritt 1. Überzeugen sich, dass bei Ihnen der Browser Firefox der Version 3.5 und älterer ist, andere Browser bis werden unterstützt</text> 
+	<text> Schritt 2. Besuchen Sie <url_greasemonkey />, beladen Sie und stellen Sie plugin Greasemonkey  fest</text>
+	<text> Schritt 3. Beladen Sie und stellen Sie LogServer GM script (<url_logserver_greasemonkey_script />) fest</text>
+	`
+`EN`=`
+ 	<text>Step 1. Make sure that your browser is Firefox 3.5+, other browsers are not supported</text>
+ 	<text>Step 2. Visit <url_greasemonkey />, download and install Greasemonkey plugin</text>
+ 	<text>Step 3. Download and install LogServer GM script from here <url_logserver_greasemonkey_script /></text>
+ 	`
+`BG`=`
+	<text>Стъпка 1. Погрижете се броузерът Ви да е Firefox 3.5+; другите броузери не се поддържат</text>
+	<text>Стъпка 2. Посетете <url_greasemonkey />, свалете и инсталирайте плъгина Greasemonkey</text>
+	<text>Стъпка 3. Свалете и инсталирайте този GreaseMonkey скрипт за LogServer-a <url_logserver_greasemonkey_script /></text>
+	`
+`RU`=`
+	<text>Шаг 1. Убедитесь, что у вас браузер Firefox версии 3.5 и старше, другие браузеры пока не поддерживаются</text>
+	<text>Шаг 2. Посетите <url_greasemonkey />, загрузите и установите плагин Greasemonkey</text>
+	<text>Шаг 3. Загрузите и установите LogServer GM script (<url_logserver_greasemonkey_script />)</text>
+	`
+`UA`=`
+	<text>Шаг 1. Переконаєтеся, що у вас браузер Firefox версії 3.5 і старше, інші браузери доки не підтримуються</text>
+	<text>Шаг 2. Відвідайте <url_greasemonkey />, завантажите і встановите плагин Greasemonkey</text>
+	<text>Шаг 3. Завантажите і встановите Logserver GM script <url_logserver_greasemonkey_script /></text>
+	`
+
+[spy_report]
+`DE`=`Spy report (simple text)`
+`EN`=`Spy report (simple text)`
+`BG`=`Шпионски доклад (обикновен текст)`
+`RU`=`Шпионский доклад (простой текст)`
+`UA`=`Шпионский доклад (простой текст)`
+
+[calc_ipms]
+`DE`=`Calculate IPMs`
+`EN`=`Calculate IPMs`
+`BG`=`Отчитане а МПР`
+`RU`=`Учесть МПР`
+`UA`=`Учесть МПР`
+
+[calc_deut_cons]
+`DE`=`Calc. deuterium consumption (100%)`
+`EN`=`Calc. deuterium consumption (100%)`
+`BG`=`Изчисляване разхода на гориво (100%)`
+`RU`=`Рассчитать потр. дейтерия (100%)`
+`UA`=`Рассчитать потр. дейтерия (100%)`
+
+[hr_field]
+`DE`=`Field for harvester report`
+`EN`=`Field for harvester report`
+`BG`=`Поле за докладите от рециклаторите`
+`RU`=`Поле для докладов переработчиков`
+`UA`=`Поле для докладов переработчиков`
+
+[sample]
+`DE`=`Sample`
+`EN`=`Sample`
+`BG`=`Пример`
+`RU`=`Пример`
+`UA`=`Пример`
+
+[leave_astx]
+`DE`=`Leave asterisk symbol (*) in case of all debris are harvested`
+`EN`=`Leave asterisk symbol (*) in case of all debris are harvested`
+`BG`=`Оставете звездичката (*) ако всичкия рециклаж е бил прибран`
+`RU`=`Оставьте звездочку (*), если всё поле обломков переработано`
+`UA`=`Оставьте звездочку (*), если всё поле обломков переработано`
+
+[cleanup_field]
+`DE`=`Field for planet clean-up (waves)`
+`EN`=`Field for planet clean-up (waves)`
+`BG`=`Поле за докладите от зачистването на планетата`
+`RU`=`Поле для зачистки`
+`UA`=`Поле для зачистки`
+
+[comment_field]
+`DE`=`Field for player comment (BB-code is supported)`
+`EN`=`Field for player comment (BB-code is supported)`
+`BG`=`Поле за коментари на играча (поддържа се BBcode)`
+`RU`=`Поле для комментария игрока (поддерживается ББ-код)`
+`UA`=`Поле для комментария игрока (поддерживается ББ-код)`
+
+[help]
+`DE`=`Help`
+`EN`=`Help`
+`BG`=`Помощ`
+`RU`=`Помощь`
+`UA`=`Помощь`
+
+[error]
+`DE`=`Error`
+`EN`=`Error`
+`BG`=`Грешка`
+`RU`=`Ошибка`
+`UA`=`Ошибка`
+
+[info]
+`DE`=`Information`
+`EN`=`Information`
+`BG`=`Информация`
+`RU`=`Информация`
+`UA`=`Информация`
+
+[warning]
+`DE`=`Warning`
+`EN`=`Warning`
+`BG`=`Внимание`
+`RU`=`Предупреждение`
+`UA`=`Предупреждение`
+
+[warning_1]
+`DE`=`Universe and domain automatic detect is impossible`
+`EN`=`Universe and domain automatic detect is impossible`
+`BG`=`Не е възможно да се определят езика и вселената`
+`RU`=`Определение страны или вселенной невозможно`
+`UA`=`Определение страны или вселенной невозможно`
+
+[warning_2]
+`DE`=`Reason: client script was not able to detect native CSS`
+`EN`=`Reason: client script was not able to detect native CSS`
+`BG`=`Причина: клиентският скрипт не можа да намери оригиналния CSS`
+`RU`=`Причина: клиентский скрипт не смог обнаружить оригинальную CSS`
+`UA`=`Причина: клиентский скрипт не смог обнаружить оригинальную CSS`
+
+[warning_3]
+`DE`=`Solution: select it manually or server will apply default values`
+`EN`=`Solution: select it manually or server will apply default values`
+`BG`=`Решение: укажете ги ръчно или сърверът ще използва значения по подразбиране`
+`RU`=`Решение: выберите их вручную, или сервер применит значения по умолчанию`
+`UA`=`Решение: выберите их вручную, или сервер применит значения по умолчанию`
+
+[rec_found]
+`DE`=`record(s) found`
+`EN`=`record(s) found`
+`BG`=`намерен(и) доклад(а)`
+`RU`=`лог(ов) найдено`
+`UA`=`лог(ов) найдено`
+
+[most_pop_logs]
+`DE`=`Most popular weekly logs`
+`EN`=`Most popular weekly logs`
+`BG`=`Най-популявните доклади (weekly)`
+`RU`=`Самые популярные логи за неделю`
+`UA`=`Самые популярные логи за неделю`
+
+[last]
+`DE`=`Last`
+`EN`=`Last`
+`BG`=`Последните`
+`RU`=`Последние`
+`UA`=`Последние`
+
+[public_logs]
+`DE`=`public logs`
+`EN`=`public logs`
+`BG`=`общодостъпни доклади`
+`RU`=`публичных логов`
+`UA`=`публичных логов`
+
+[missle_launch_det]
+`DE`=`MISSLES LAUNCH DETECTED`
+`EN`=`MISSLES LAUNCH DETECTED`
+`BG`=`ЗАБЕЛЯЗАНО Е ИЗСТРЕЛВАНЕ НА РАКЕТИ`
+`RU`=`ОБНАРУЖЕНЫ ЗАПУСКИ РАКЕТ`
+`UA`=`ОБНАРУЖЕНЫ ЗАПУСКИ РАКЕТ`
+
+[defense]
+`DE`=`Defense`
+`EN`=`Defense`
+`BG`=`Защита`
+`RU`=`Оборона`
+`UA`=`Оборона`
+
+[fleet]
+`DE`=`Fleet`
+`EN`=`Fleet`
+`BG`=`Fleet`
+`RU`=`Флот`
+`UA`=`Флот`
+
+[exp_real_lossed]
+`DE`=`Expected real losses`
+`EN`=`Expected real losses`
+`BG`=`Очаквани реални загуби`
+`RU`=`Ожидаемые реальные потери`
+`UA`=`Ожидаемые реальные потери`
+
+[wm_donate]
+`DE`=`You can support this project financially`
+`EN`=`You can support this project financially`
+`BG`=`You can support this project financially`
+`RU`=`Проект можно поддержать материально`
+`UA`=`Проект можно поддержать материально`

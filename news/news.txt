@@ -1,0 +1,33 @@
+06/02/10 Starting news publishing
+06/02/10 New skin added: Chaos
+06/02/10 <a href='index.php?show=plugin'><font size='1'>Plugin updated up to v1.2</font></a>
+10/02/10 Split-up fixed
+11/02/10 <a href='index.php?show=plugin'><font size='1'>Plugin updated up to v1.3</font></a>
+11/02/10 Search page updated
+12/02/10 List of compatible plugins
+15/02/10 <a href='http://board.ogame.ru/index.php?page=Thread&postID=1735872#post1735872' target='_blank'><font size='1'>LogServer has won the battle!!!</font></a>
+18/02/10 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v1.3</font></a>
+20/02/10 Upload statistics added
+20/02/10 Spy reports support added
+21/02/10 <a href='index.php?show=plugin'><font size='1'>Plugin updated up to v1.4</font></a>
+21/02/10 <a href='http://userscripts.org/scripts/show/69560' target='_blank'><font size='1'>Plugin published on userscripts.org</font></a>
+15/03/10 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.0</font></a>
+14/05/10 Link on OpenGalaxy in CR
+18/05/10 New background every month
+15/09/10 New skins: ?ntrvr[!], Disturbed, Static-X, System shock
+26/11/10 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.4</font></a>
+24/06/11 Added change and lost password
+24/06/11 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.5</font></a>
+04/03/12 Updating the language pack <a href='index.php?show=fixlist'><font size='1'>v2.5.1</font></a>
+13/01/13 Add Interface War <a href='http://dev.logserver.net/index.php?show=fixlist'><font size='1'>v2.6</font></a>
+13/12/13 Ajax display logs
+15/12/13 Сorrected buttons for "My account"
+25/12/13 Add Alt system (shahterov.net, warlogs.ru)
+28/12/13 Add ogame.gstrategy.ru for Alt system; update code display alliace
+30/12/13 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.7</font></a>
+30/12/13 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.8</font></a> 
+07/08/15 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v2.9</font></a> 
+14/04/17 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v3.1</font></a>
+14/10/17 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v3.2</font></a>
+20/10/17 LogServer is now <a href='index.php?show=fixlist'><font size='1'>v3.3</font></a>
+07/03/20 Думаю, пора тут что-то написать :) <a href='index.php?show=fixlist'><font size='1'>v3.4.1</font></a>
